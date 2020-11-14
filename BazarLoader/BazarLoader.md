@@ -21,3 +21,11 @@ BazarLoader主要通过解析以.bazar为结尾的域名来和服务器进行通
 
 ![](bazarloader_request_1.png)
 解密一系列网络函数用于服务器的请求
+![](bazarloader_request_2.png)
+
+## 附录
+```
+HASH:1e123a6c5d65084ca6ea78a26ec4bebcfc4800642fec480d1ceeafb1cacaaa83
+REF:https://www.vkremez.com/2020/04/lets-learn-trickbot-bazarbackdoor.html?view=flipcard
+```
+
